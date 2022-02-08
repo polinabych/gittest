@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.text-block {
+    background-color: blueviolet;
+    display: block;
+    width: 235px;
+    height: 48px;
+    overflow: hidden;
+}
